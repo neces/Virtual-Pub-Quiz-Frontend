@@ -1,0 +1,16 @@
+{
+  
+  "questions": [
+    {
+      "type": "MultiChoice",
+      "question": "What is my name?",
+      "correctAnswer": "Jordan",
+      "answers": [
+        "Jordan",
+        "Cammy",
+        "Melvin",
+        "Topu"
+      ]
+    }
+  ]
+}
