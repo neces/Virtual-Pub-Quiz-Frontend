@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Virtual-Pub-Quiz-Frontend/static/css/main.9e158f8a.chunk.css",
-    "main.js": "/Virtual-Pub-Quiz-Frontend/static/js/main.6926a9c6.chunk.js",
-    "main.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/main.6926a9c6.chunk.js.map",
+    "main.js": "/Virtual-Pub-Quiz-Frontend/static/js/main.fdf8fe15.chunk.js",
+    "main.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/main.fdf8fe15.chunk.js.map",
     "runtime-main.js": "/Virtual-Pub-Quiz-Frontend/static/js/runtime-main.b75a7964.js",
     "runtime-main.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/runtime-main.b75a7964.js.map",
-    "static/js/2.6a4b35e8.chunk.js": "/Virtual-Pub-Quiz-Frontend/static/js/2.6a4b35e8.chunk.js",
-    "static/js/2.6a4b35e8.chunk.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/2.6a4b35e8.chunk.js.map",
+    "static/js/2.414bc0d7.chunk.js": "/Virtual-Pub-Quiz-Frontend/static/js/2.414bc0d7.chunk.js",
+    "static/js/2.414bc0d7.chunk.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/2.414bc0d7.chunk.js.map",
     "index.html": "/Virtual-Pub-Quiz-Frontend/index.html",
-    "precache-manifest.e0d4d1be502c2550ead076927e4ebe4d.js": "/Virtual-Pub-Quiz-Frontend/precache-manifest.e0d4d1be502c2550ead076927e4ebe4d.js",
+    "precache-manifest.82c832892b2d6277a08fcc85d752c630.js": "/Virtual-Pub-Quiz-Frontend/precache-manifest.82c832892b2d6277a08fcc85d752c630.js",
     "service-worker.js": "/Virtual-Pub-Quiz-Frontend/service-worker.js",
     "static/css/main.9e158f8a.chunk.css.map": "/Virtual-Pub-Quiz-Frontend/static/css/main.9e158f8a.chunk.css.map",
-    "static/js/2.6a4b35e8.chunk.js.LICENSE.txt": "/Virtual-Pub-Quiz-Frontend/static/js/2.6a4b35e8.chunk.js.LICENSE.txt",
+    "static/js/2.414bc0d7.chunk.js.LICENSE.txt": "/Virtual-Pub-Quiz-Frontend/static/js/2.414bc0d7.chunk.js.LICENSE.txt",
     "static/media/LeaderboardFull.png": "/Virtual-Pub-Quiz-Frontend/static/media/LeaderboardFull.bee86d1d.png",
     "static/media/Logo.png": "/Virtual-Pub-Quiz-Frontend/static/media/Logo.608bd790.png",
     "static/media/Ready.png": "/Virtual-Pub-Quiz-Frontend/static/media/Ready.0ea0042b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b75a7964.js",
-    "static/js/2.6a4b35e8.chunk.js",
+    "static/js/2.414bc0d7.chunk.js",
     "static/css/main.9e158f8a.chunk.css",
-    "static/js/main.6926a9c6.chunk.js"
+    "static/js/main.fdf8fe15.chunk.js"
   ]
 }
