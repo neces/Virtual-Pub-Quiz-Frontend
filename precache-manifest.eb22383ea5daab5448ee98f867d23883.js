@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b23bfee58cd41567cd6a5fa623bd926",
+    "revision": "970d68210862eab89c5fc94c8d052343",
     "url": "/Virtual-Pub-Quiz-Frontend/index.html"
   },
   {
-    "revision": "4c9d6756553c74686f43",
-    "url": "/Virtual-Pub-Quiz-Frontend/static/css/main.50a6a9ea.chunk.css"
+    "revision": "0ee2a61a09a8edb3110b",
+    "url": "/Virtual-Pub-Quiz-Frontend/static/css/main.46b94b0a.chunk.css"
   },
   {
-    "revision": "0177a3e014d8fd369a8b",
-    "url": "/Virtual-Pub-Quiz-Frontend/static/js/2.80f6799e.chunk.js"
+    "revision": "77177aa04e72cb580370",
+    "url": "/Virtual-Pub-Quiz-Frontend/static/js/2.dc7598f2.chunk.js"
   },
   {
     "revision": "ef7f0128066dad638e14e7838f835a83",
-    "url": "/Virtual-Pub-Quiz-Frontend/static/js/2.80f6799e.chunk.js.LICENSE.txt"
+    "url": "/Virtual-Pub-Quiz-Frontend/static/js/2.dc7598f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4c9d6756553c74686f43",
-    "url": "/Virtual-Pub-Quiz-Frontend/static/js/main.4e2dda1d.chunk.js"
+    "revision": "0ee2a61a09a8edb3110b",
+    "url": "/Virtual-Pub-Quiz-Frontend/static/js/main.3dd7959a.chunk.js"
   },
   {
     "revision": "4cf8951fa66e936ed6ed",
