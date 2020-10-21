@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Virtual-Pub-Quiz-Frontend/static/css/main.ef7b07d9.chunk.css",
-    "main.js": "/Virtual-Pub-Quiz-Frontend/static/js/main.e76c5f27.chunk.js",
-    "main.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/main.e76c5f27.chunk.js.map",
+    "main.css": "/Virtual-Pub-Quiz-Frontend/static/css/main.ca27b24c.chunk.css",
+    "main.js": "/Virtual-Pub-Quiz-Frontend/static/js/main.b54896d8.chunk.js",
+    "main.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/main.b54896d8.chunk.js.map",
     "runtime-main.js": "/Virtual-Pub-Quiz-Frontend/static/js/runtime-main.b75a7964.js",
     "runtime-main.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/runtime-main.b75a7964.js.map",
-    "static/js/2.dc7598f2.chunk.js": "/Virtual-Pub-Quiz-Frontend/static/js/2.dc7598f2.chunk.js",
-    "static/js/2.dc7598f2.chunk.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/2.dc7598f2.chunk.js.map",
+    "static/js/2.77ab0615.chunk.js": "/Virtual-Pub-Quiz-Frontend/static/js/2.77ab0615.chunk.js",
+    "static/js/2.77ab0615.chunk.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/2.77ab0615.chunk.js.map",
     "index.html": "/Virtual-Pub-Quiz-Frontend/index.html",
-    "precache-manifest.842d80fd4f21f04d6c1ae5f6c8c3ea7c.js": "/Virtual-Pub-Quiz-Frontend/precache-manifest.842d80fd4f21f04d6c1ae5f6c8c3ea7c.js",
+    "precache-manifest.e9736c2f2d5631ac4b0e703eb5123bcc.js": "/Virtual-Pub-Quiz-Frontend/precache-manifest.e9736c2f2d5631ac4b0e703eb5123bcc.js",
     "service-worker.js": "/Virtual-Pub-Quiz-Frontend/service-worker.js",
-    "static/css/main.ef7b07d9.chunk.css.map": "/Virtual-Pub-Quiz-Frontend/static/css/main.ef7b07d9.chunk.css.map",
-    "static/js/2.dc7598f2.chunk.js.LICENSE.txt": "/Virtual-Pub-Quiz-Frontend/static/js/2.dc7598f2.chunk.js.LICENSE.txt",
+    "static/css/main.ca27b24c.chunk.css.map": "/Virtual-Pub-Quiz-Frontend/static/css/main.ca27b24c.chunk.css.map",
+    "static/js/2.77ab0615.chunk.js.LICENSE.txt": "/Virtual-Pub-Quiz-Frontend/static/js/2.77ab0615.chunk.js.LICENSE.txt",
     "static/media/LeaderboardFull.png": "/Virtual-Pub-Quiz-Frontend/static/media/LeaderboardFull.bee86d1d.png",
     "static/media/Logo.png": "/Virtual-Pub-Quiz-Frontend/static/media/Logo.608bd790.png",
     "static/media/Ready.png": "/Virtual-Pub-Quiz-Frontend/static/media/Ready.0ea0042b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b75a7964.js",
-    "static/js/2.dc7598f2.chunk.js",
-    "static/css/main.ef7b07d9.chunk.css",
-    "static/js/main.e76c5f27.chunk.js"
+    "static/js/2.77ab0615.chunk.js",
+    "static/css/main.ca27b24c.chunk.css",
+    "static/js/main.b54896d8.chunk.js"
   ]
 }
