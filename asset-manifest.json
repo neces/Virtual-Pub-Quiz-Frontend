@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Virtual-Pub-Quiz-Frontend/static/css/main.05e75816.chunk.css",
-    "main.js": "/Virtual-Pub-Quiz-Frontend/static/js/main.b0353e2a.chunk.js",
-    "main.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/main.b0353e2a.chunk.js.map",
+    "main.css": "/Virtual-Pub-Quiz-Frontend/static/css/main.2e91a79c.chunk.css",
+    "main.js": "/Virtual-Pub-Quiz-Frontend/static/js/main.629aac73.chunk.js",
+    "main.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/main.629aac73.chunk.js.map",
     "runtime-main.js": "/Virtual-Pub-Quiz-Frontend/static/js/runtime-main.b75a7964.js",
     "runtime-main.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/runtime-main.b75a7964.js.map",
     "static/js/2.3ac55d3e.chunk.js": "/Virtual-Pub-Quiz-Frontend/static/js/2.3ac55d3e.chunk.js",
     "static/js/2.3ac55d3e.chunk.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/2.3ac55d3e.chunk.js.map",
     "index.html": "/Virtual-Pub-Quiz-Frontend/index.html",
-    "precache-manifest.83b16377c5ad70806e6c63a444752997.js": "/Virtual-Pub-Quiz-Frontend/precache-manifest.83b16377c5ad70806e6c63a444752997.js",
+    "precache-manifest.02538955fdfdcc41789216742dce187f.js": "/Virtual-Pub-Quiz-Frontend/precache-manifest.02538955fdfdcc41789216742dce187f.js",
     "service-worker.js": "/Virtual-Pub-Quiz-Frontend/service-worker.js",
-    "static/css/main.05e75816.chunk.css.map": "/Virtual-Pub-Quiz-Frontend/static/css/main.05e75816.chunk.css.map",
+    "static/css/main.2e91a79c.chunk.css.map": "/Virtual-Pub-Quiz-Frontend/static/css/main.2e91a79c.chunk.css.map",
     "static/js/2.3ac55d3e.chunk.js.LICENSE.txt": "/Virtual-Pub-Quiz-Frontend/static/js/2.3ac55d3e.chunk.js.LICENSE.txt",
     "static/media/LeaderboardFull.png": "/Virtual-Pub-Quiz-Frontend/static/media/LeaderboardFull.bee86d1d.png",
     "static/media/Logo.png": "/Virtual-Pub-Quiz-Frontend/static/media/Logo.608bd790.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.b75a7964.js",
     "static/js/2.3ac55d3e.chunk.js",
-    "static/css/main.05e75816.chunk.css",
-    "static/js/main.b0353e2a.chunk.js"
+    "static/css/main.2e91a79c.chunk.css",
+    "static/js/main.629aac73.chunk.js"
   ]
 }
