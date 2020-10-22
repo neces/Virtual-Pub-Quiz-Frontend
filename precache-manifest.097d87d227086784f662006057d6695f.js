@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd81ed0bd76072d871f4a37f14bc014f",
+    "revision": "2837ad673784f0187c1c4e9179ebd05e",
     "url": "/Virtual-Pub-Quiz-Frontend/index.html"
   },
   {
-    "revision": "bc9a72eef3a53b3dfb87",
+    "revision": "8777f4ad3ba92a86cc39",
     "url": "/Virtual-Pub-Quiz-Frontend/static/css/main.05e75816.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Virtual-Pub-Quiz-Frontend/static/js/2.77ab0615.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc9a72eef3a53b3dfb87",
-    "url": "/Virtual-Pub-Quiz-Frontend/static/js/main.6af63bef.chunk.js"
+    "revision": "8777f4ad3ba92a86cc39",
+    "url": "/Virtual-Pub-Quiz-Frontend/static/js/main.efa99b2b.chunk.js"
   },
   {
     "revision": "4cf8951fa66e936ed6ed",
