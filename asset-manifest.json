@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Virtual-Pub-Quiz-Frontend/static/css/main.66f6af96.chunk.css",
+    "main.css": "/Virtual-Pub-Quiz-Frontend/static/css/main.c6ffebed.chunk.css",
     "main.js": "/Virtual-Pub-Quiz-Frontend/static/js/main.079ca588.chunk.js",
     "main.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/main.079ca588.chunk.js.map",
     "runtime-main.js": "/Virtual-Pub-Quiz-Frontend/static/js/runtime-main.b75a7964.js",
@@ -8,9 +8,9 @@
     "static/js/2.9b04d242.chunk.js": "/Virtual-Pub-Quiz-Frontend/static/js/2.9b04d242.chunk.js",
     "static/js/2.9b04d242.chunk.js.map": "/Virtual-Pub-Quiz-Frontend/static/js/2.9b04d242.chunk.js.map",
     "index.html": "/Virtual-Pub-Quiz-Frontend/index.html",
-    "precache-manifest.71ad94a64afac697e6e90866bf084b79.js": "/Virtual-Pub-Quiz-Frontend/precache-manifest.71ad94a64afac697e6e90866bf084b79.js",
+    "precache-manifest.134612cdae856a5a4b2a8f880c041de9.js": "/Virtual-Pub-Quiz-Frontend/precache-manifest.134612cdae856a5a4b2a8f880c041de9.js",
     "service-worker.js": "/Virtual-Pub-Quiz-Frontend/service-worker.js",
-    "static/css/main.66f6af96.chunk.css.map": "/Virtual-Pub-Quiz-Frontend/static/css/main.66f6af96.chunk.css.map",
+    "static/css/main.c6ffebed.chunk.css.map": "/Virtual-Pub-Quiz-Frontend/static/css/main.c6ffebed.chunk.css.map",
     "static/js/2.9b04d242.chunk.js.LICENSE.txt": "/Virtual-Pub-Quiz-Frontend/static/js/2.9b04d242.chunk.js.LICENSE.txt",
     "static/media/1stPlace.png": "/Virtual-Pub-Quiz-Frontend/static/media/1stPlace.ad230b7d.png",
     "static/media/2ndPlace.png": "/Virtual-Pub-Quiz-Frontend/static/media/2ndPlace.d33e7595.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.b75a7964.js",
     "static/js/2.9b04d242.chunk.js",
-    "static/css/main.66f6af96.chunk.css",
+    "static/css/main.c6ffebed.chunk.css",
     "static/js/main.079ca588.chunk.js"
   ]
 }
