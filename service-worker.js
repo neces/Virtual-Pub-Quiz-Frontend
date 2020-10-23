@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Virtual-Pub-Quiz-Frontend/precache-manifest.97d9d8cc9948a2cd9a42c9a854917d42.js"
+  "/Virtual-Pub-Quiz-Frontend/precache-manifest.26fa28fedba7fdd1adaa30193b30f457.js"
 );
 
 self.addEventListener('message', (event) => {
